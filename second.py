@@ -1,4 +1,3 @@
-import random
 fruits=['orange','gavava','cherry']
 addfruit = input("enter any fruitname")
 
